@@ -1,0 +1,15 @@
+F:\CSharpAdvanced\Solution1\Projects\bin\Debug\net8.0\Projects.exe
+F:\CSharpAdvanced\Solution1\Projects\bin\Debug\net8.0\Projects.deps.json
+F:\CSharpAdvanced\Solution1\Projects\bin\Debug\net8.0\Projects.runtimeconfig.json
+F:\CSharpAdvanced\Solution1\Projects\bin\Debug\net8.0\Projects.dll
+F:\CSharpAdvanced\Solution1\Projects\bin\Debug\net8.0\Projects.pdb
+F:\CSharpAdvanced\Solution1\Projects\obj\Debug\net8.0\Projects.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharpAdvanced\Solution1\Projects\obj\Debug\net8.0\Projects.AssemblyInfoInputs.cache
+F:\CSharpAdvanced\Solution1\Projects\obj\Debug\net8.0\Projects.AssemblyInfo.cs
+F:\CSharpAdvanced\Solution1\Projects\obj\Debug\net8.0\Projects.csproj.CoreCompileInputs.cache
+F:\CSharpAdvanced\Solution1\Projects\obj\Debug\net8.0\Projects.sourcelink.json
+F:\CSharpAdvanced\Solution1\Projects\obj\Debug\net8.0\Projects.dll
+F:\CSharpAdvanced\Solution1\Projects\obj\Debug\net8.0\refint\Projects.dll
+F:\CSharpAdvanced\Solution1\Projects\obj\Debug\net8.0\Projects.pdb
+F:\CSharpAdvanced\Solution1\Projects\obj\Debug\net8.0\Projects.genruntimeconfig.cache
+F:\CSharpAdvanced\Solution1\Projects\obj\Debug\net8.0\ref\Projects.dll
