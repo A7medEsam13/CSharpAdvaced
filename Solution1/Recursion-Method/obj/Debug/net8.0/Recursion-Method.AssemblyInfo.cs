@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Recursion-Method")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9f78174c886d9d57024e8b797ad2d179653785e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68a843f07aa203f9ed5f8ab8862fd31b0f5442b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Recursion-Method")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Recursion-Method")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
