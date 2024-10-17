@@ -15,8 +15,9 @@ namespace Projects.Delegate
             public int Deductions {  get; set; }
             public int Bonus {  get; set; }
         }
+        public delegate bool ShouldCalculate(employee emloyees);
 
-        delegate int CalculateDelegate(int num1, int num2);
+        
         static public void Run()
         {
             List<employee> employees = new();
@@ -31,42 +32,22 @@ namespace Projects.Delegate
 
                 });
             }
-            CalculateSalaries(employees);
+            CalculateSalaries(employees, e => e.BasicSalary <= 2000);
             
         }
 
-        private static void CalculateSalaries(List<employee> employees)
+        private static void CalculateSalaries(List<employee> employees, ShouldCalculate Predict)
         {
-            foreach(var i in employees)
+            foreach (var i in employees)
             {
-                int salary = i.BasicSalary - i.Deductions + i.Bonus;
-                Console.WriteLine($"Salary for employee'{i.Name}' = {salary}");
+                if (Predict(i))
+                {
+                    int salary = i.BasicSalary - i.Deductions + i.Bonus;
+                    Console.WriteLine($"Total Salary for employee'{i.Name}' whith salary {i.BasicSalary} = {salary}");
+                }
             }
         }
-
-        static void Calculate(int num1, int num2, CalculateDelegate dlg)
-        {
-            int result = dlg(num1,num2);
-            
-            Console.WriteLine($"Result = {result}");
-        }
-
-       static public int Add(int num1, int num2)
-        {
-            return num1 + num2;
-        }
-       static public int Substract(int num1, int num2)
-        {
-            return num1 - num2;
-        }
-       static public int Multiply(int num1, int num2)
-        {
-            return num1 * num2;
-        }
-       static public int Division(int num1, int num2)
-        {
-            return num1 / num2;
-        }
+       
 
     }
 }
