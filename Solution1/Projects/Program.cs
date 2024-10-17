@@ -1,4 +1,5 @@
 ﻿using System;
+using Projects.Events;
 
 namespace Projects
 {
@@ -6,7 +7,7 @@ namespace Projects
     {
         static void Main(string[] args)
         {
-            
+            App.Run();
         }
     }
 }

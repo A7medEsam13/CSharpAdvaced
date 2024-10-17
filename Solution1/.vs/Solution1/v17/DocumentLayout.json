@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "F:\\CSharpAdvanced\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|f:\\csharpadvanced\\solution1\\projects\\delegate\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|solutionrelative:projects\\delegate\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|f:\\csharpadvanced\\solution1\\projects\\events\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|solutionrelative:projects\\events\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|f:\\csharpadvanced\\solution1\\projects\\events\\tempraturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|solutionrelative:projects\\events\\tempraturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|f:\\csharpadvanced\\solution1\\projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|solutionrelative:projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|f:\\csharpadvanced\\solution1\\projects\\delegate\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|solutionrelative:projects\\delegate\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "App.cs",
               "DocumentMoniker": "F:\\CSharpAdvanced\\Solution1\\Projects\\Delegate\\App.cs",
               "RelativeDocumentMoniker": "Projects\\Delegate\\App.cs",
               "ToolTip": "F:\\CSharpAdvanced\\Solution1\\Projects\\Delegate\\App.cs",
               "RelativeToolTip": "Projects\\Delegate\\App.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAmwC0AAABdAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T21:14:04.663Z",
               "IsPinned": true,
@@ -40,13 +48,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.cs",
+              "DocumentMoniker": "F:\\CSharpAdvanced\\Solution1\\Projects\\Events\\App.cs",
+              "RelativeDocumentMoniker": "Projects\\Events\\App.cs",
+              "ToolTip": "F:\\CSharpAdvanced\\Solution1\\Projects\\Events\\App.cs",
+              "RelativeToolTip": "Projects\\Events\\App.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T21:08:12.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TempratureSensor.cs",
+              "DocumentMoniker": "F:\\CSharpAdvanced\\Solution1\\Projects\\Events\\TempratureSensor.cs",
+              "RelativeDocumentMoniker": "Projects\\Events\\TempratureSensor.cs",
+              "ToolTip": "F:\\CSharpAdvanced\\Solution1\\Projects\\Events\\TempratureSensor.cs",
+              "RelativeToolTip": "Projects\\Events\\TempratureSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T20:59:01.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\CSharpAdvanced\\Solution1\\Projects\\Program.cs",
               "RelativeDocumentMoniker": "Projects\\Program.cs",
               "ToolTip": "F:\\CSharpAdvanced\\Solution1\\Projects\\Program.cs",
               "RelativeToolTip": "Projects\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T21:13:22.447Z",
               "EditorCaption": ""

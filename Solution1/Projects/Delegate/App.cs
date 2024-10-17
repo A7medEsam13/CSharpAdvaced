@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.NetworkInformation;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -8,44 +9,29 @@ namespace Projects.Delegate
 {
     public class App
     {
-        public class employee 
-        {
-            public string Name {  get; set; }
-            public int BasicSalary {  get; set; }
-            public int Deductions {  get; set; }
-            public int Bonus {  get; set; }
-        }
-        public delegate bool ShouldCalculate(employee emloyees);
-
+        
+        delegate int[] SortDeegate(int[] nums);
         
         static public void Run()
         {
-            List<employee> employees = new();
-            for(var i = 0; i < 100; i++)
-            {
-                employees.Add(new employee
-                {
-                    Name = $"Employee {i}",
-                    BasicSalary=Random.Shared.Next(1000 , 5001),
-                    Deductions=Random.Shared.Next(0 , 501),
-                    Bonus=Random.Shared.Next(0 ,1001)
-
-                });
-            }
-            CalculateSalaries(employees, e => e.BasicSalary <= 2000);
-            
+            int[] nums = { 1, 5, 8, 2, 6, 4, 3, 1, 0, 5 };
+            GetSorting(nums,  Sorting);
         }
 
-        private static void CalculateSalaries(List<employee> employees, ShouldCalculate Predict)
+        static void GetSorting(int[] nums , SortDeegate sort)
         {
-            foreach (var i in employees)
+            int[] n = sort(nums);
+            foreach(var i in n)
             {
-                if (Predict(i))
-                {
-                    int salary = i.BasicSalary - i.Deductions + i.Bonus;
-                    Console.WriteLine($"Total Salary for employee'{i.Name}' whith salary {i.BasicSalary} = {salary}");
-                }
+                Console.Write($"{i} ");
             }
+        }
+
+        
+        static public int[] Sorting(int[] nums)
+        {
+            Array.Sort(nums);
+            return nums;
         }
        
 
