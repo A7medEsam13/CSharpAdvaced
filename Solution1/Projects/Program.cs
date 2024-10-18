@@ -1,5 +1,5 @@
 ﻿using System;
-using Projects.Online_Shoping_System;
+
 
 namespace Projects
 {
@@ -7,7 +7,7 @@ namespace Projects
     {
         static void Main(string[] args)
         {
-            App.Run();
+           
         }
     }
 }
