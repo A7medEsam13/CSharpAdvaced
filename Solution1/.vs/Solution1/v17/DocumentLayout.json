@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "F:\\CSharpAdvanced\\Solution1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|f:\\csharpadvanced\\solution1\\projects\\multithraeds\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|solutionrelative:projects\\multithraeds\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|f:\\csharpadvanced\\solution1\\projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|solutionrelative:projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|f:\\csharpadvanced\\solution1\\projects\\online-shoping-system\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|solutionrelative:projects\\online-shoping-system\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|f:\\csharpadvanced\\solution1\\projects\\online-shoping-system\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|solutionrelative:projects\\online-shoping-system\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|f:\\csharpadvanced\\solution1\\projects\\online-shoping-system\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|solutionrelative:projects\\online-shoping-system\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,52 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.cs",
-              "DocumentMoniker": "F:\\CSharpAdvanced\\Solution1\\Projects\\Online-Shoping-System\\App.cs",
-              "RelativeDocumentMoniker": "Projects\\Online-Shoping-System\\App.cs",
-              "ToolTip": "F:\\CSharpAdvanced\\Solution1\\Projects\\Online-Shoping-System\\App.cs*",
-              "RelativeToolTip": "Projects\\Online-Shoping-System\\App.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T22:03:56.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NotificationService.cs",
-              "DocumentMoniker": "F:\\CSharpAdvanced\\Solution1\\Projects\\Online-Shoping-System\\NotificationService.cs",
-              "RelativeDocumentMoniker": "Projects\\Online-Shoping-System\\NotificationService.cs",
-              "ToolTip": "F:\\CSharpAdvanced\\Solution1\\Projects\\Online-Shoping-System\\NotificationService.cs",
-              "RelativeToolTip": "Projects\\Online-Shoping-System\\NotificationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T21:53:59.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Order.cs",
-              "DocumentMoniker": "F:\\CSharpAdvanced\\Solution1\\Projects\\Online-Shoping-System\\Order.cs",
-              "RelativeDocumentMoniker": "Projects\\Online-Shoping-System\\Order.cs",
-              "ToolTip": "F:\\CSharpAdvanced\\Solution1\\Projects\\Online-Shoping-System\\Order.cs",
-              "RelativeToolTip": "Projects\\Online-Shoping-System\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T21:52:11.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "App.cs",
+              "DocumentMoniker": "F:\\CSharpAdvanced\\Solution1\\Projects\\MultiThraeds\\App.cs",
+              "RelativeDocumentMoniker": "Projects\\MultiThraeds\\App.cs",
+              "ToolTip": "F:\\CSharpAdvanced\\Solution1\\Projects\\MultiThraeds\\App.cs*",
+              "RelativeToolTip": "Projects\\MultiThraeds\\App.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwDYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:13:15.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\CSharpAdvanced\\Solution1\\Projects\\Program.cs",
               "RelativeDocumentMoniker": "Projects\\Program.cs",
-              "ToolTip": "F:\\CSharpAdvanced\\Solution1\\Projects\\Program.cs*",
-              "RelativeToolTip": "Projects\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ToolTip": "F:\\CSharpAdvanced\\Solution1\\Projects\\Program.cs",
+              "RelativeToolTip": "Projects\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T19:39:38.134Z",
               "EditorCaption": ""
