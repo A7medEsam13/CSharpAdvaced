@@ -1,0 +1,5 @@
+F:\CSharpAdvanced\Solution1\Solving\obj\Debug\net8.0\Solving.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharpAdvanced\Solution1\Solving\obj\Debug\net8.0\Solving.AssemblyInfoInputs.cache
+F:\CSharpAdvanced\Solution1\Solving\obj\Debug\net8.0\Solving.AssemblyInfo.cs
+F:\CSharpAdvanced\Solution1\Solving\obj\Debug\net8.0\Solving.csproj.CoreCompileInputs.cache
+F:\CSharpAdvanced\Solution1\Solving\obj\Debug\net8.0\Solving.sourcelink.json

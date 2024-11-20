@@ -6,13 +6,18 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 using static Projects.MultiThraeds.App;
+using  Projects.MultiThraeds.Using_Thread_Parameter;
 
 namespace Projects.MultiThraeds
 {
     internal class App
     {
-
         public static void Run()
+        {
+            ThreadProgram.Run();
+        } 
+
+        public static void thread()
         {
             Data data = new Data();
             data.counter = 0;
@@ -21,12 +26,6 @@ namespace Projects.MultiThraeds
             var th2 = new Thread(() => ProcessBatch2(data));
             th1.Start();
             th2.Start();
-
-            
-
-
-
-
         }
 
         public class Data

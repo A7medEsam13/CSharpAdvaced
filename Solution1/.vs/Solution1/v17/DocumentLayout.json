@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "F:\\CSharpAdvanced\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|f:\\csharpadvanced\\solution1\\projects\\multithraeds\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|solutionrelative:projects\\multithraeds\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|f:\\csharpadvanced\\solution1\\projects\\hospital-mangement\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|solutionrelative:projects\\hospital-mangement\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|f:\\csharpadvanced\\solution1\\projects\\hospital-mangement\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|solutionrelative:projects\\hospital-mangement\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|f:\\csharpadvanced\\solution1\\projects\\hospital-mangement\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|solutionrelative:projects\\hospital-mangement\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|f:\\csharpadvanced\\solution1\\projects\\hospital-mangement\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|solutionrelative:projects\\hospital-mangement\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|f:\\csharpadvanced\\solution1\\projects\\hospital-mangement\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|solutionrelative:projects\\hospital-mangement\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C601E214-60C3-4315-A486-4E039B6EA559}|Projects\\Projects.csproj|f:\\csharpadvanced\\solution1\\projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,34 +34,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.cs",
+              "DocumentMoniker": "F:\\CSharpAdvanced\\Solution1\\Projects\\Hospital-Mangement\\App.cs",
+              "RelativeDocumentMoniker": "Projects\\Hospital-Mangement\\App.cs",
+              "ToolTip": "F:\\CSharpAdvanced\\Solution1\\Projects\\Hospital-Mangement\\App.cs",
+              "RelativeToolTip": "Projects\\Hospital-Mangement\\App.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wCMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:39:36.18Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App.cs",
-              "DocumentMoniker": "F:\\CSharpAdvanced\\Solution1\\Projects\\MultiThraeds\\App.cs",
-              "RelativeDocumentMoniker": "Projects\\MultiThraeds\\App.cs",
-              "ToolTip": "F:\\CSharpAdvanced\\Solution1\\Projects\\MultiThraeds\\App.cs*",
-              "RelativeToolTip": "Projects\\MultiThraeds\\App.cs*",
-              "ViewState": "AgIAACsAAAAAAAAAAAAqwDYAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Appointments.cs",
+              "DocumentMoniker": "F:\\CSharpAdvanced\\Solution1\\Projects\\Hospital-Mangement\\Appointments.cs",
+              "RelativeDocumentMoniker": "Projects\\Hospital-Mangement\\Appointments.cs",
+              "ToolTip": "F:\\CSharpAdvanced\\Solution1\\Projects\\Hospital-Mangement\\Appointments.cs",
+              "RelativeToolTip": "Projects\\Hospital-Mangement\\Appointments.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAjwCAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T08:13:15.787Z",
+              "WhenOpened": "2024-11-20T01:42:31.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "F:\\CSharpAdvanced\\Solution1\\Projects\\Hospital-Mangement\\Doctor.cs",
+              "RelativeDocumentMoniker": "Projects\\Hospital-Mangement\\Doctor.cs",
+              "ToolTip": "F:\\CSharpAdvanced\\Solution1\\Projects\\Hospital-Mangement\\Doctor.cs",
+              "RelativeToolTip": "Projects\\Hospital-Mangement\\Doctor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:38:37.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "F:\\CSharpAdvanced\\Solution1\\Projects\\Hospital-Mangement\\Patient.cs",
+              "RelativeDocumentMoniker": "Projects\\Hospital-Mangement\\Patient.cs",
+              "ToolTip": "F:\\CSharpAdvanced\\Solution1\\Projects\\Hospital-Mangement\\Patient.cs*",
+              "RelativeToolTip": "Projects\\Hospital-Mangement\\Patient.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:33:08.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "F:\\CSharpAdvanced\\Solution1\\Projects\\Hospital-Mangement\\Person.cs",
+              "RelativeDocumentMoniker": "Projects\\Hospital-Mangement\\Person.cs",
+              "ToolTip": "F:\\CSharpAdvanced\\Solution1\\Projects\\Hospital-Mangement\\Person.cs",
+              "RelativeToolTip": "Projects\\Hospital-Mangement\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:31:04.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\CSharpAdvanced\\Solution1\\Projects\\Program.cs",
               "RelativeDocumentMoniker": "Projects\\Program.cs",
               "ToolTip": "F:\\CSharpAdvanced\\Solution1\\Projects\\Program.cs",
               "RelativeToolTip": "Projects\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T19:39:38.134Z",
               "EditorCaption": ""

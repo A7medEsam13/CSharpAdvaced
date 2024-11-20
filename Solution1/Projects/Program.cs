@@ -1,5 +1,5 @@
 ﻿using System;
-using Projects.MultiThraeds;
+using Projects.Hospital_Mangement;
 
 namespace Projects
 {
@@ -9,5 +9,6 @@ namespace Projects
         {
             App.Run();
         }
+
     }
 }
